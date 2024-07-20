@@ -2,6 +2,8 @@
 
 This repository contains the code and documentation for the thesis project focused on the training and creation of a model capable of predicting emotions through the correct identification of micro-expressions in children with autism.
 
+DOI: 10.1007/978-3-031-48930-3_20
+
 ## Project Overview
 
 This project is divided into several stages, each contributing to the development of a robust model for emotion prediction. Below is a summary of the activities and stages involved in this project:
